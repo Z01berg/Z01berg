@@ -1,4 +1,4 @@
-# 🌠 Hi there, I'm Z01berg
+# 🌠 Hi there, I'm Zahar
 **So here I am. Really a big fan of _Hideo Kojima_, Anime, Music and drawning.**
 
 **My core credo are meanning _Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
