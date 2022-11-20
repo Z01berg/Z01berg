@@ -1,6 +1,7 @@
 # 🌠 Hi there, I'm Z01berg
 **So here I am. Really a big fan of _Hideo Kojima_, Anime, Music and drawning.**
-**My core credo is meanning _Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
+
+**My core credo are meanning _Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
 # 💫 About Me:
 
 <img align="right" width=400px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
