@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
-- 📝 Here my [CV and Certificates](../)
+- 📝 Here my [CV and Certificates](https://github.com/Z01berg/Z01berg/tree/main/CV%20%26%26%20CERTIFICATES)
 - 
 - 🔑 More about me, my current projects, priorities and bio you can find [here](https://z01berg.github.io/) (Oh, and there is my contact mail and even more socials so why you aren't there?)
 
