@@ -1,8 +1,9 @@
-#
-##
+# 🌠 Hi there
+## So here I am. Really a big fan of _Hideo Kojima_, Anime, Music, meanning _Talos Principle_ && _Dadzai Osamu_ (how am I still alive?) and drawning
 # 💫 About Me:
 
 <img align="right" width=250px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
+
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
 - 📝 Here are my [CV and Certificates](https://github.com/Z01berg/Z01berg/tree/main/CV%20%26%26%20CERTIFICATES)
 - ✨In general, I am interested in improving my skill in **Game Development** (Unity, Unreal Engine), **Languages** (C, C++, C#, Java), **Web Development && Programming** (HTML, CSS, Tailwindcss, JavaScript) and **Drawning && Photoshop**
@@ -22,12 +23,14 @@
 # 🎮 My games:
 - **At this moment all my games are on beta builds (at summer it should be better)**
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://z01berg.itch.io/)
+
 <img align="center" width=500px height=500px alt="2" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Bell.gif"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Z01berg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Z01berg&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z01berg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <img align="right" width=250px height=250px alt="3" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Cowboy.gif"/>
 
 [![](https://visitcount.itsvg.in/api?id=Z01berg&icon=0&color=7)](https://visitcount.itsvg.in)
