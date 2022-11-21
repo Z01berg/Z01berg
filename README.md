@@ -1,15 +1,15 @@
 # 🌠 Hi there, I'm Zahar
-**So here I am. Really a big fan of _Hideo Kojima_, Anime, Music and drawning.**
+**So here I am. Really a big fan of _Hideo Kojima_, Anime, Music, and drawing.**
 
-**My core credo are meanning _Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
+**My core credo is _meanning Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
 # 💫 About Me:
 
 <img align="right" width=400px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
 
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
 - 📝 Here are my [CV and Certificates](https://github.com/Z01berg/Z01berg/tree/main/CV%20%26%26%20CERTIFICATES)
-- ✨In general, I am interested in improving my skill in **Game Development** (Unity, Unreal Engine), **Languages** (C, C++, C#, Java), **Web Development && Programming** (HTML, CSS, Tailwindcss, JavaScript) and **Drawning && Photoshop**
-- 🔑 More about me, my current projects, priorities and bio you can find [here](https://z01berg.github.io/) (Oh, and there is my contact mail and even more socials so why you aren't there?)
+- ✨In general, I am interested in improving my skill in **Game Development** (Unity, Unreal Engine), **Languages** (C, C++, C#, Java), **Web Development && Programming** (HTML, CSS, Tailwindcss, JavaScript) and **Drawing && Photoshop**
+- 🔑 More about me, my current projects, priorities, and bio you can find [here](https://z01berg.github.io/) (Oh, and there is my contact mail and even more socials so why you aren't there?)
 
 
 # 💻 Tech Stack:
