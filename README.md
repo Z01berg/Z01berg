@@ -1,8 +1,8 @@
-# 🌠 Hi there, I'm Zahar
+#  Hi there, I'm Zahar
 **So here I am. Really a big fan of _Hideo Kojima_, Anime, Music, and drawing.**
 
 **My core credo is _meanning Talos Principle_ && _Dadzai Osamu_ (how am I still alive?)**
-# 💫 About Me:
+#  About Me:
 
 <img align="right" width=400px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
 
