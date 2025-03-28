@@ -6,7 +6,7 @@
 
 <img align="right" width=400px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
 
-[LinkedIn](www.linkedin.com/in/▓zahar-zubyk▓)
+[LinkedIn](https://www.linkedin.com/in/%E2%96%93zahar-zubyk%E2%96%93/)
 
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
 - 📝 Here are my [CV and Certificates](https://github.com/Z01berg/Z01berg/tree/main/CV%20%26%26%20CERTIFICATES)
