@@ -6,6 +6,8 @@
 
 <img align="right" width=400px height=250px alt="1" src="https://github.com/Z01berg/Z01berg/blob/main/GIF/Dazai.gif"/>
 
+[LinkedIn](www.linkedin.com/in/▓zahar-zubyk▓)
+
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
 - 📝 Here are my [CV and Certificates](https://github.com/Z01berg/Z01berg/tree/main/CV%20%26%26%20CERTIFICATES)
 - ✨In general, I am interested in improving my skill in **Game Development** (Godot, Unity, Unreal Engine), **Languages** (C, C++, C#, Java, Python), **Web Development && Programming** (HTML, CSS, Tailwindcss, JavaScript, React) and **Drawing && Photoshop**
