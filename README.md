@@ -16,7 +16,7 @@ I'm a passionate Software Engineer and Game Developer based in Warsaw, Poland. C
   - Implemented sophisticated graphical simulations and interactive components
   - Successfully migrated projects to TypeScript, improving code reliability
 
-- **Lead Developer & Project Manager** for "Card Your Time" (September 2023 - 2024)
+- **Lead Developer & Project Manager** for "Card Your Time" (September 2023 - December 2024)
   - Architected procedural dungeon generation system
   - Implemented turn-based gameplay mechanics
   - Led cross-functional team meetings and agile project management
